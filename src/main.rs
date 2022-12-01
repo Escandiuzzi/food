@@ -9,5 +9,5 @@ use crate::order::Order;
 fn main() {
     let mut order = Order::create();
 
-    println!("Customer name from order is {}", order.customer.get_name);
+    println!("Customer name from order is {}", order.customer.get_name());
 }

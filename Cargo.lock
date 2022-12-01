@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-playground"
+name = "food"
 version = "0.1.0"
